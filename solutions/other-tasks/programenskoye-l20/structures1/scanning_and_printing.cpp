@@ -1,4 +1,6 @@
-// other comment to scanning & printing
+/*
+	comment scanning and printing
+*/
 
 #include <iostream>
 #include <vector>
