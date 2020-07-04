@@ -1,3 +1,7 @@
+/*
+	comment scanning and printing
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>
