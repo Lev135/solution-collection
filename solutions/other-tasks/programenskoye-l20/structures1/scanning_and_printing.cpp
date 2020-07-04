@@ -1,3 +1,5 @@
+// other comment to scanning & printing
+
 #include <iostream>
 #include <vector>
 #include <string>
